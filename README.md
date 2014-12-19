@@ -10,7 +10,7 @@ This is a javascript library for doing so.
 - **rem-height-container** - a container of children to size
 - **rem-height-auto** - a child of a container to assume standard height
   (whatever height the browser normally calculates for it)
-- **rem-height-<percent>** - a child of the container to assume `percent` of
+- **rem-height-percent** - a child of the container to assume `percent` of
   the remaining height not taken by other children
 
 [demo (jsfiddle)](http://jsfiddle.net/1bmefLzr/5/)
